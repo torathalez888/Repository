@@ -1,0 +1,17 @@
+{
+  "name": "تراث العز — دفتر الإدارة",
+  "short_name": "تراث العز",
+  "description": "نظام إدارة الطلبات والعملاء والمستودع والديون لتراث العز",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14231f",
+  "theme_color": "#14231f",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
